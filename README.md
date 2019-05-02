@@ -7,14 +7,8 @@ By creating an electronic graduation processing and review system, students will
 5.	Support key stakeholders by providing the status of each approval process and general statistics.
 
 ## User Interface
-#### Validation of Personal Information
 <img width="800" alt="1" src="https://user-images.githubusercontent.com/22768968/57109950-b3226180-6ceb-11e9-9cd6-26af1d006ef4.png">
-#### Degree Audit and Course Planning
 <img width="800" alt="2" src="https://user-images.githubusercontent.com/22768968/57109961-c03f5080-6ceb-11e9-96b0-bc228b7a7920.png"> 
-#### Review of the students 
 <img width="800" alt="3" src="https://user-images.githubusercontent.com/22768968/57109978-cd5c3f80-6ceb-11e9-9ee1-8272a0eee123.png">
-#### Course Plan Review
 <img width="800" alt="4" src="https://user-images.githubusercontent.com/22768968/57109988-d6e5a780-6ceb-11e9-93f5-8c7561f6d481.png">
-#### Report View
 <img width="800" alt="5" src="https://user-images.githubusercontent.com/22768968/57109995-dfd67900-6ceb-11e9-9337-f4ef18aa0b30.png">
-

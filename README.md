@@ -11,4 +11,4 @@ By creating an electronic graduation processing and review system, students will
 <img width="800" alt="2" src="https://user-images.githubusercontent.com/22768968/57109961-c03f5080-6ceb-11e9-96b0-bc228b7a7920.png"> 
 <img width="800" alt="3" src="https://user-images.githubusercontent.com/22768968/57109978-cd5c3f80-6ceb-11e9-9ee1-8272a0eee123.png">
 <img width="800" alt="4" src="https://user-images.githubusercontent.com/22768968/57109988-d6e5a780-6ceb-11e9-93f5-8c7561f6d481.png">
-<img width="800" alt="5" src="https://user-images.githubusercontent.com/22768968/57109995-dfd67900-6ceb-11e9-9337-f4ef18aa0b30.png">
+<img width="800" alt="555" src="https://user-images.githubusercontent.com/22768968/57111072-9f78fa00-6cef-11e9-98d2-6941b1988486.png">
